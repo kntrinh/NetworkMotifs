@@ -1,0 +1,209 @@
+::size 3 network8 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network8 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network30 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network30 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network9 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network9 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network25 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network25 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network1 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network1 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 4 network8 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network8 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network30 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network30 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network9 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network9 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network25 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network25 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network1 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network1 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 5 network8 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network8 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif8undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network30 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network30 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif30undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network9 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network9 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif9undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network25 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network25 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif25undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network1 rab=1 1-5000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (50,50,5000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network1 rab=1 5050-10000 stepsize 50
+d:
+CD\previousPC\school\Research\motif1undirected
+FOR /L %i IN (5050,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)

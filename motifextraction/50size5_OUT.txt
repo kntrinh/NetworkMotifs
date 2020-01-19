@@ -1,0 +1,165 @@
+
+   Summary motif results
+   =====================
+mfinder Version 1.20
+
+MOTIF FINDER RESULTS:
+
+	Network name: 50.txt
+	Network type: Non-Directed
+	Num of Nodes: 100 Num of Edges: 194
+	Num of Nodes with edges: 99
+	Maximal out degree (out-hub) : 9
+	Maximal in degree (in-hub) : 9
+	Roots num: 0 Leaves num: 0
+	Single Edges num: 0 Mutual Edges num: 194
+
+	Motif size searched  5
+	Total number of 5-node subgraphs : 3540
+	Number of random networks generated : 100
+	Random networks generation method: Switches
+	Num of Switches range: 100.0-200.0, Success switches Ratio:0.890+-0.00
+
+The following motifs were found:
+
+Criteria taken : Nreal Zscore > 2.00
+                 Pval ignored (due to small number of random networks)
+                 Mfactor > 1.10
+                 Uniqueness >= 4
+
+
+
+	Full list includes 9 motifs
+MOTIF	NREAL	NRAND		NREAL	NREAL	UNIQ	CREAL
+ID		STATS		ZSCORE	PVAL	VAL	[MILI]	
+
+1150398	148	9.5+-9.1	15.18	0.000	10	41.81
+
+0 1 1 1 1 
+1 0 1 1 0 
+1 1 0 0 0 
+1 1 0 0 0 
+1 0 0 0 0 
+
+1255858	704	260.9+-85.0	5.21	0.000	10	198.87
+
+0 1 0 0 1 
+1 0 1 1 0 
+0 1 0 1 0 
+0 1 1 0 0 
+1 0 0 0 0 
+
+1256886	284	8.9+-8.4	32.63	0.000	9	80.23
+
+0 1 1 0 1 
+1 0 1 1 0 
+1 1 0 1 0 
+0 1 1 0 0 
+1 0 0 0 0 
+
+1289662	75	0.2+-1.7	44.02	0.000	4	21.19
+
+0 1 1 1 1 
+1 0 1 1 0 
+1 1 0 1 0 
+1 1 1 0 0 
+1 0 0 0 0 
+
+3248062	14	0.1+-0.3	54.32	0.000	4	3.95
+
+0 1 1 1 1 
+1 0 1 1 1 
+1 1 0 0 0 
+1 1 0 0 0 
+1 1 0 0 0 
+
+3319358	64	2.4+-2.4	25.27	0.000	7	18.08
+
+0 1 1 1 1 
+1 0 0 0 1 
+1 0 0 1 0 
+1 0 1 0 0 
+1 1 0 0 0 
+
+3321534	113	0.3+-0.6	175.74	0.000	9	31.92
+
+0 1 1 1 1 
+1 0 1 0 1 
+1 1 0 1 0 
+1 0 1 0 0 
+1 1 0 0 0 
+
+3387326	52	0.0+-0.0	888888	0.000	4	14.69
+
+0 1 1 1 1 
+1 0 1 1 1 
+1 1 0 1 0 
+1 1 1 0 0 
+1 1 0 0 0 
+
+7598014	21	0.0+-0.0	888888	0.000	4	5.93
+
+0 1 1 1 1 
+1 0 1 1 1 
+1 1 0 1 1 
+1 1 1 0 0 
+1 1 1 0 0 
+
+
+
+
+Full list of subgraphs size 5 found in the network:
+
+	( Total num of different subgraphs size 5 found in the real network : 21 )
+
+MOTIF	NREAL	NRAND		NREAL	NREAL	CREAL	UNIQ
+ID		STATS		ZSCORE	PVAL	[MILI]	
+1082430	4	564.4+-52.4	-10.70	1.000	1.13	20	0.00
+
+1083578	425	7116.1+-434.8	-15.39	1.000	120.06	90	0.00
+
+1084606	78	127.1+-45.5	-1.08	0.860	22.03	60	0.00
+
+1117588	1118	7341.4+-319.9	-19.46	1.000	315.82	120	0.00
+
+1117622	337	258.0+-98.8	0.80	0.230	95.20	100	0.00
+
+1150364	44	258.3+-57.3	-3.74	1.000	12.43	40	0.00
+
+1150398	148	9.5+-9.1	15.18	0.000	41.81	100	0.00
+
+1255858	704	260.9+-85.0	5.21	0.000	198.87	100	0.00
+
+1256886	284	8.9+-8.4	32.63	0.000	80.23	90	0.00
+
+1289662	75	0.2+-1.7	44.02	0.000	21.19	40	0.00
+
+3248028	1	1.4+-1.4	-0.32	0.740	0.28	10	0.00
+
+3248062	14	0.1+-0.3	54.32	0.000	3.95	40	0.00
+
+3319358	64	2.4+-2.4	25.27	0.000	18.08	70	0.00
+
+3320472	2	55.0+-8.8	-6.01	1.000	0.56	20	0.00
+
+3320506	31	8.8+-5.0	4.40	0.000	8.76	30	0.00
+
+3321534	113	0.3+-0.6	175.74	0.000	31.92	90	0.00
+
+3387292	10	0.1+-0.3	32.83	0.000	2.82	30	0.00
+
+3387326	52	0.0+-0.0	888888	0.000	14.69	40	0.00
+
+7595838	12	0.0+-0.0	888888	0.000	3.39	30	0.00
+
+7598014	21	0.0+-0.0	888888	0.000	5.93	40	0.00
+
+16510910	3	0.0+-0.0	888888	0.000	0.85	20	0.00
+
+
+
+ (Application total runtime was:   2.25 minutes).
+
+ (Real network processing runtime was:    1.0 seconds.)
+
+ (Single Random network processing runtime was:    1.3 seconds.)
