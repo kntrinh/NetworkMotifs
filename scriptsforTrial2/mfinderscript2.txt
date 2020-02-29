@@ -1,0 +1,133 @@
+::size 3 network2 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif2undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network3 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif3undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network4 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif4undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network5 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif5undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network6 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif6undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+::size 3 network7 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif7undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 3 -f %isize3 -nd
+)
+
+
+
+
+::size 4 network2 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif2undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network3 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif3undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network4 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif4undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network5 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif5undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network6 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif6undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+::size 4 network7 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif7undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 4 -f %isize4 -nd
+)
+
+
+
+
+
+::size 5 network2 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif2undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network3 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif3undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network4 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif4undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network5 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif5undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network6 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif6undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
+::size 5 network7 rab=1 1-10000 stepsize 50
+d:
+CD\motiftrialtwo\motif7undirected\motiffilesinputoutput
+FOR /L %i IN (50,50,10000) DO (
+  mfinder1.2 %i.txt -s 5 -f %isize5 -nd
+)
+
